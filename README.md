@@ -10,6 +10,5 @@
 - ⚡ Fun fact: I'm utterly impulsive.
 
 <img src="https://github-readme-stats.vercel.app/api?username=kobito-kun&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobito-kun&layout=compact">
 <hr>
