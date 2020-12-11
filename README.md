@@ -1,7 +1,7 @@
 
 <hr>
 
-### Hi, I'm Kobi/TrueDarkness 👋
+### Hi, I'm [Kobi/TrueDarkness](https://kobi.lol) 👋
 ##### From darkness comes light, and light, darkness.
 
 - 🔭 I’m currently working as a student
