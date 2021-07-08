@@ -7,13 +7,13 @@
 ### ☑ Stuff I use
 
 <div style="display: flex; flex-wrap: wrap">
-  <img src="https://kobi.lol/static/media/python.e6d7dc73.svg" width="20" />
-  <img src="https://kobi.lol/static/media/javascript.07314975.svg" width="20" />
-  <img src="https://kobi.lol/static/media/html-5.821ba738.svg" width="20" />
-  <img src="https://kobi.lol/static/media/css3.8fba365c.svg" width="20" />
-  <img src="https://kobi.lol/static/media/jquery-1.a7204256.svg" width="20" />
-  <img src="https://kobi.lol/static/media/tailwindcss.68603ef4.svg" width="20" />
-  <img src="https://kobi.lol/static/media/react-2.e68b35f4.svg" width="20" />
+  <img src="/python.svg" height="25" />
+  <img src="/javascript.svg" height="25" />
+  <img src="/html.svg" height="25" />
+  <img src="/css.svg" height="25" />
+  <img src="/jquery.svg" height="25" />
+  <img src="/tailwind.svg" height="25" />
+  <img src="/react.svg" height="25" />
   <img src="https://kobi.lol/static/media/nextjs-3.7ab4af8b.svg" width="20" />
   <img src="https://kobi.lol/static/media/vue-js-1.4921ee76.svg" width="20" />
   <img src="https://kobi.lol/static/media/redux.0e4fb1c8.svg" width="20" />
