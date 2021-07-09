@@ -35,6 +35,7 @@
 - [🐾 Anime Lookup](https://github.com/kobito-kun/ReactJS/tree/master/b-project) A manga/anime lookup site.
 - [📊 Sorting Visualizer](https://github.com/kobito-kun/Sorting-Visualizer) A sorting algorithms visualizer.
 - [📚 Weebify](https://github.com/kobito-kun/Weebify) A full stack comic storage site.
+- [🗳️ Pollify](https://github.com/kobito-kun/Pollify) A full stack live polling site.
 
 ### ☑ Contact
 
