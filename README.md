@@ -32,7 +32,6 @@
 ### ☑ Main Projects
 
 - [📈 Stockily](https://github.com/kobito-kun/Stockily/) A stocks tracker website.
-- [🛒 Pronto](https://github.com/kobito-kun/Pronto/) A full stack e-commerce website.
 - [🐾 Anime Lookup](https://github.com/kobito-kun/ReactJS/tree/master/b-project) A manga/anime lookup site.
 - [📊 Sorting Visualizer](https://github.com/kobito-kun/Sorting-Visualizer) A sorting algorithms visualizer.
 - [📚 Weebify](https://github.com/kobito-kun/Weebify) A full stack comic storage site.
