@@ -4,7 +4,7 @@
 
 ---
 
-### ☑ Stuff I use
+### ☑ Stuff I use fluently
 
 <div style="display: flex; flex-wrap: wrap">
   <img src="https://shields.io/badge/python-3776AB?logo=python&style=for-the-badge&logoColor=white" height="25" />
