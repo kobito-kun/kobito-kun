@@ -37,5 +37,6 @@
 
 ### Contact
 
+- ✨ Twitter: [@TrueDarkness420](https://twitter.com/truedarkness420)
 - 📧 Mail: [ito.kobilol@gmail.com](mailto:ito.kobilol@gmail.com)
 - ✨ Discord: [TrueDarkness#7183]()
