@@ -33,6 +33,7 @@
   <img src="https://shields.io/badge/socketio-010101?logo=socket.io&style=for-the-badge&logoColor=white" height="20" />
   <img src="https://shields.io/badge/github-181717?logo=github&style=for-the-badge&logoColor=white" height="20" />  
   <img src="https://shields.io/badge/windows-0078D6?logo=windows&style=for-the-badge&logoColor=white" height="20" />
+  <img src="https://shields.io/badge/md-black?logo=markdown&style=for-the-badge&logoColor=white" height="20" />
 </div>
 
 ### Contact
