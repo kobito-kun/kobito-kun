@@ -1,5 +1,7 @@
 ### Hi, I'm [Kobi](https://itskobi.com) 👋
 
+Might be inactive for a few while at times but trying my best to keep it up due to regular school scheduling messing with my current.
+
 <img src="https://cdn.discordapp.com/attachments/756574459313389624/877448844349145138/ce46f26726b0fe01fabc2415d04ebd90.gif" width="40%" align="right" />
 
 ---
