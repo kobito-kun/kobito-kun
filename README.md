@@ -1,13 +1,15 @@
-### Hi, I'm [Kobi](https://itskobi.com) 👋
+<img width="30%" src="https://cdn.discordapp.com/attachments/756574459313389624/877448844349145138/ce46f26726b0fe01fabc2415d04ebd90.gif" align="right" /></div>
 
-Might be inactive for a few while at times but trying my best to keep it up due to regular school scheduling messing with my current.
+<h1> Hello Guests.</h1>
+<p align='center'>
 
-<img src="https://cdn.discordapp.com/attachments/756574459313389624/877448844349145138/ce46f26726b0fe01fabc2415d04ebd90.gif" width="40%" align="right" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=kobito-kun.kobito-kun" align="right"/>
 
----
+</p>
+<div size='20px'> Hello, I'm <a href="https://itskobi.com">Kobi</a> and I like to develop stuff.
+</div>
 
-### Stuff I use fluently
-
+<h2> Skills </h2>
 <div style="display: flex; flex-wrap: wrap">
   <img src="https://shields.io/badge/python-3776AB?logo=python&style=for-the-badge&logoColor=white" height="20" />
   <img src="https://shields.io/badge/javascript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=white" height="20" />
@@ -36,10 +38,13 @@ Might be inactive for a few while at times but trying my best to keep it up due 
   <img src="https://shields.io/badge/github-181717?logo=github&style=for-the-badge&logoColor=white" height="20" />  
   <img src="https://shields.io/badge/windows-0078D6?logo=windows&style=for-the-badge&logoColor=white" height="20" />
   <img src="https://shields.io/badge/md-black?logo=markdown&style=for-the-badge&logoColor=white" height="20" />
-</div>
+ </div>
+ <sub>Feel free to contact me for more libraries/frameworks you require.</sub>
+<h2> Me </h2>
 
-### Contact
-
-- ✨ Twitter: [@TrueDarkness420](https://twitter.com/truedarkness420)
-- 📧 Mail: [ito.kobilol@gmail.com](mailto:ito.kobilol@gmail.com)
-- ✨ Discord: [TrueDarkness#7183]()
+```JSON
+{
+  "discord": "TrueDarkness#7183",
+  "website": "https://itskobi.com/",
+}
+```
