@@ -38,6 +38,7 @@
   <img src="https://shields.io/badge/github-181717?logo=github&style=for-the-badge&logoColor=white" height="20" />  
   <img src="https://shields.io/badge/windows-0078D6?logo=windows&style=for-the-badge&logoColor=white" height="20" />
   <img src="https://shields.io/badge/md-black?logo=markdown&style=for-the-badge&logoColor=white" height="20" />
+  <img src="https://shields.io/badge/handlebars-000000?logo=Handlebars.js&style=for-the-badge&logoColor=white" height="20" />
  </div>
  <sub>Feel free to contact me for more libraries/frameworks you require.</sub>
 <h2> Me </h2>
