@@ -3,8 +3,6 @@
 <h1> Hello Guests.</h1>
 <p align='center'>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=kobito-kun.kobito-kun" align="right"/>
-
 </p>
 <div size='20px'> Hello, I'm <a href="https://itskobi.com">Kobi</a> and I like to develop stuff.
 </div>
