@@ -1,4 +1,4 @@
-<img width="30%" src="https://cdn.discordapp.com/attachments/756574459313389624/877448844349145138/ce46f26726b0fe01fabc2415d04ebd90.gif" align="right" /></div>
+<img width="30%" src="https://media1.giphy.com/media/AdtvZ8gu9gZ32/giphy.gif?cid=6c09b952ke9egl2js8lb8mk6chzyjao1dm0l5llle55uul8i&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" /></div>
 
 <h1> Hello Guests.</h1>
 <p align='center'>
