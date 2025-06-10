@@ -7,7 +7,7 @@
 <div size='20px'> Hello, I'm <a href="https://itskobi.com">Kobi</a> and I like to develop stuff.
 </div>
 
-<h2> Skills </h2>
+<h2> Stuff I can use </h2>
 <div style="display: flex; flex-wrap: wrap">
   <img src="https://shields.io/badge/python-3776AB?logo=python&style=for-the-badge&logoColor=white" height="20" />
   <img src="https://shields.io/badge/javascript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=white" height="20" />
